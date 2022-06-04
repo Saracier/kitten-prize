@@ -33,7 +33,7 @@ function clickHasOccured() {
     newBodyInsertion.className = 'main';
     newBodyInsertion.innerHTML = `
   <h1>Congratulations!<h1>
-  <h2>You had won a kitten picture</h2>
+  <h2>You won a kitten picture</h2>
   <img id="pictureKitten"src="http://placekitten.com/${roll}/500" alt="kitten picture" />
   <h3>One more?<h3> 
  `;
